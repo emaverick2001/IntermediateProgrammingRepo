@@ -1,0 +1,4 @@
+Maverick Espinosa D5F9AC
+To structure the different options available to the user, I mainly used a switch case and under each case utilized a helper function to perform the action
+For checking if a phone number is valid, I implemented an isValid helper function
+I refactored my code into functions for each case

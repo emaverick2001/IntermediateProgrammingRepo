@@ -1,0 +1,15 @@
+# 2023-summer-final-rdani1-kforbes6-mespin11
+
+TEAM:
+Katherine Forbes, kforbes6
+Ria Dani, rdani1
+Maverick Espinosa, mespin11
+
+DESIGN:
+The design of the plot rendering program follows a modular and object-oriented approach to creating a user-friendly tool that renders PNG images. The code is organized into distinct modules, each responsible for a specific aspect of the plotting process, such as expression parsing, function evaluation, rendering, and image generation. The main classes, such as Plot, Bounds, and Image, serve as the core components to handle the plotting directives and generate the final output. The design also emphasizes error handling, with custom exceptions to provide informative messages for users when unexpected inputs or errors occur. Overall, the design enables users to define complex functions, apply fill operations, and specify custom colors, offering a an easy-to-use plotting tool.
+
+COMPLETENESS:
+We believe, to the best of our knowledge, that our solution encompasses a complete level of functionality based on the instructions provided. We are not aware of any missing or incomplete functionality.
+
+OTHER:
+We have one of our tests failing because Katherine someone has more than one associated github account and one has only 2 commits. However, the majority of her commits has come from her main github account and has more than 4 commits.

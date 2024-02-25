@@ -1,0 +1,490 @@
+commit 7c26f6f57fbda7cd38085a231b529aa16ff6b4cf
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Tue Apr 25 21:32:40 2023 -0400
+
+    Added error handling for directives that require numerical inputs
+
+commit 8b6d27a33bc302bbbfae10af405ae14fe5c62fc9
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 21:01:08 2023 -0400
+
+    Reverted to older version that is functional
+
+commit 064bbdca978fe7dbd6f78fdf3e8877c18a04833d
+Merge: 93f21d5 668caa6
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 19:41:16 2023 -0400
+
+    Added erorr handling to reader
+
+commit 93f21d5ee10dd800a99b971323ae7b90c85568ed
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 19:40:21 2023 -0400
+
+    Added error handling on reader to account for arguments
+
+commit 668caa64cf6cfaf9059fa2f5a9d65f9fcc67cd5f
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Mon Apr 24 19:31:42 2023 -0400
+
+    More warning fixing
+
+commit 0da023d8c9794e6803cd96992523bb98db1e864b
+Merge: 985783a 17b5714
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 19:28:52 2023 -0400
+
+    ADded error handling to readeR
+
+commit 985783ab71b1f84761f394088d88c243c54db7bb
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 19:28:15 2023 -0400
+
+    Made error handling on reader
+
+commit 17b5714624c3df262ab32e8fd232d016be74ed2b
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Mon Apr 24 19:19:54 2023 -0400
+
+    Fixed warning issues
+
+commit 39671a25e0f1e309be3f6ba27bb5407bb50feef5
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 19:17:36 2023 -0400
+
+    Fixed merge
+
+commit b56e5004a9e034f5bf5134f099187f04eb720117
+Merge: 1ec8ac2 06bfeeb
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 19:02:20 2023 -0400
+
+    Did README
+
+commit 1ec8ac29071b3ff4f76fac92c90d178da76e2049
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 19:01:36 2023 -0400
+
+    Added to readme
+
+commit 06bfeeb803346078843c76ffe6e6ef4c89deee44
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 18:48:31 2023 -0400
+
+    Added error handling for color
+
+commit 462251a89b0a7f8d0ea6bf9347c43f31729b9125
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Mon Apr 24 18:10:14 2023 -0400
+
+    Ex 5 now works
+
+commit a7e57e30a05ad5da804915987180ea2bcdcfea7c
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Mon Apr 24 18:09:13 2023 -0400
+
+    Fixed issue with - sign in txt input and added numeric helper fcn
+
+commit e316c4815d879ee2be3cf37f368fbdc58bc2d8b9
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Mon Apr 24 17:16:33 2023 -0400
+
+    Comments and small change
+
+commit 939e327792cc4dd700037a7e515d4eab916d35cc
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Mon Apr 24 17:15:41 2023 -0400
+
+    Minor changes and comments added to renderer
+
+commit 457238380d99ba3d58d0f9f7a9f47333daeadadf
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 16:38:34 2023 -0400
+
+    Added condition to make sure point is within bounds
+
+commit b18ab4a046c9af6f2629b8ecfeb2fc7113104db3
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 15:52:48 2023 -0400
+
+    Added pluses
+
+commit e0de990f63b82b90c96a5243ff7617c8ca9979ea
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 15:38:48 2023 -0400
+
+    Made default color white in renderFuncs
+
+commit 08dc954da472e8c825590b8543404ed887d761aa
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 15:16:45 2023 -0400
+
+    Added README
+
+commit 832c4613826415ea521b44f6723a440fb64afb30
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 15:16:07 2023 -0400
+
+    Added color fucntionality to renderFuncs
+
+commit 3b9495cb9f1a3451475a4b5b863be52c78134097
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 14:48:04 2023 -0400
+
+    Added cross functionality to renderer
+
+commit 83469d28f108db4d1684f6ece253bfac40be2eae
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 14:47:53 2023 -0400
+
+    Changed expr parsors expr to do pi acurately
+
+commit 2de844e732a29b9a1ed0e6007ad8a74e6ca09f88
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 14:37:57 2023 -0400
+
+    Added fixes for filling in between
+
+commit b111d5ea65e805ee23ba5a61df28634f83b11694
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 14:31:41 2023 -0400
+
+    fixed argument number errors on expr
+
+commit 068ff557d161ae3e6d65c9e92134547f2a759814
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 14:31:10 2023 -0400
+
+    Wprked on renderFUncs
+
+commit db74bd6b44c26cb97dbb6816d93bf5bfcd44e7db
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Mon Apr 24 14:24:07 2023 -0400
+
+    Worked on renderFuncs
+
+commit 44fe07e2d02a28ecda04a1ab6c531ba15880e284
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Mon Apr 24 14:23:15 2023 -0400
+
+    Changed minus expression to correctly reflect the operation
+
+commit b4770eb0c442211bd6893d9a5b380ae79ab65720
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 20:56:51 2023 -0400
+
+    Rewrote with helper functions for renderer implementations
+
+commit b4ae2b8346b7d663359153b8febae6f9ca826e45
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Sun Apr 23 19:39:06 2023 -0400
+
+    Fixed errors with sin and cos function arguments
+
+commit 5e9d04b3c74a048ccce699d205cf9cf495926deb
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 18:20:43 2023 -0400
+
+    Minor edits and function declarations
+
+commit fdf10a7e9d496911881ae7b9fab5680fc4451428
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 17:51:15 2023 -0400
+
+    Added helper function declarations
+
+commit c8f77392744ceb44d4410c132534af6ba6ebb7f9
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 17:45:57 2023 -0400
+
+    Added helper function to tell if pixel is in valid fill area
+
+commit e5e4e6d3e7c24f55f631ec6ae590c4925ffd6fe4
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 17:22:53 2023 -0400
+
+    Added name helper function and for loops to renderer
+
+commit a01a9dd9fa4207bc1c232f6cd0365085255f8807
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 12:25:22 2023 -0400
+
+    Added row calculator and started rendererfill
+
+commit 4010cf94b5b0ace8ab4c1e27f021bc57249ad726
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 12:17:25 2023 -0400
+
+    Added row calculator and started render fill
+
+commit db5f01f383c506ccc754d2f82b765c839259da36
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 11:43:43 2023 -0400
+
+    Added coordinate calculation helper function
+
+commit 519e0cc137c95a7482ad86dfb47ede7fcabbb391
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sun Apr 23 11:04:06 2023 -0400
+
+    Made color blend helper function
+
+commit 881002023c1efa10e717c870ec74f80bb21e344f
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 23:15:48 2023 -0400
+
+    Added some function declarations to renderer.h
+
+commit 2962836756a1a15fa7daaab22d3a38e564f93646
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 22:29:15 2023 -0400
+
+    Fixed type error and added beter comments to plot
+
+commit 7afd0ee35e4ec972e1164f51311d4d1b15b4c5a4
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 22:18:21 2023 -0400
+
+    Fixed redundancies in Fill Code for FillBetween
+
+commit 8de1a905dba80d23366ada9b3acd8878d31af202
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 22:13:59 2023 -0400
+
+    Minor comments fixed for bounds.h
+
+commit 4f5ea695553ca1cd239be93e5ede55c859d3bba7
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 22:12:54 2023 -0400
+
+    Adding better comments for bounds
+
+commit 83fed7b5fb9103afc7e75084cafac9c4e2697006
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 22:12:01 2023 -0400
+
+    Minor comments added
+
+commit 0fb41174159fb547b77304f8b44fe034f0629063
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 22:11:24 2023 -0400
+
+    Added comments and polished
+
+commit ee6df81ffde6fec4c2666ad58383336cd41b3840
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Sat Apr 22 20:22:33 2023 -0400
+
+    Made changes in comments
+
+commit e21e3c7e113c1ad4bbe417b0ba33678511df0eec
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Sat Apr 22 13:34:04 2023 -0400
+
+    Added error handling try and catch block in the main
+
+commit ebfd55504bcd6c443a04e7d788a2ce8c6f35a07b
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 13:24:43 2023 -0400
+
+    Declared class, minor edit
+
+commit 5e8c7fc6b8554c1d1279392eaf4e0657466c63c0
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Sat Apr 22 13:21:06 2023 -0400
+
+    Made minor error changes
+
+commit bf6dc073de90f6347ba04733d49d75fca4e14c8a
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 13:16:41 2023 -0400
+
+    Added Fill command implementation, there is RGB issue
+
+commit ab4308ac8144fd570a48d90e98b9e9ddcbff0b53
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 12:50:44 2023 -0400
+
+    Added non-default constructors to fill and destructor
+
+commit 291190fb576619a46f5abb3a829a224c95c82642
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 12:50:20 2023 -0400
+
+    Fixed order warning and added getters to fill
+
+commit 180a73c9b49806b1da4967135bbb931e68e90403
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 12:30:36 2023 -0400
+
+    Added constructors and private fields for fill
+
+commit 263a67a0432d2559de51e9cc71d55c61e909e2ba
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Sat Apr 22 12:26:04 2023 -0400
+
+    Added more comments
+
+commit 0365c23bab062d7903d459fc4f7af8af0087d93f
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Sat Apr 22 00:08:52 2023 -0400
+
+    Minor comment adding
+
+commit e9a980408c086f49fba9527a168eefa5931e5daa
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Fri Apr 21 23:46:57 2023 -0400
+
+    Adding detailed comments
+
+commit 5c4e3231d8eb7693847f458c2d0dbceaf8d6cc6f
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Fri Apr 21 23:33:47 2023 -0400
+
+    Fixing core dump spacing issue
+
+commit 8e9776e46cfc6fe2172e472b987873f374b1902d
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 19:47:20 2023 -0400
+
+    Tried to make color work, but did not succeed
+
+commit d2396a5f51785663e24f383e4073022faddfbbd8
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 19:26:36 2023 -0400
+
+    Fixed minor errors in reading
+
+commit e89c1a39d1bbca1e9a7229457da6fab84a55f9d2
+Merge: c4042bf 120a278
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 19:02:31 2023 -0400
+
+    added fixes
+
+commit c4042bf030b5d3b0dd4ec8d33189518fbff01c31
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 18:59:30 2023 -0400
+
+    Added virtual destructors
+
+commit 120a278570fae7793c11d72669b9b3a50f017a03
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Fri Apr 21 18:55:58 2023 -0400
+
+    Trying to fix plotting
+
+commit 5f9efba5a7853c8cbe9d8a95b280f58e5de37f1e
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Fri Apr 21 18:35:32 2023 -0400
+
+    Added dynamic memory deallocation and default constructor
+
+commit b2ea44aed4fd51455dd5b211fd620fdbfbb238ee
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Fri Apr 21 18:26:21 2023 -0400
+
+    Fixing plot.h, adding functions and fills
+
+commit b768abdfb484ac39603c9edba95d8f3b760c6865
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 18:00:11 2023 -0400
+
+    Changed logic for expr parser
+
+commit 59be8d2c3d0f60c44c57ffd11a9136a33a289236
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 17:35:50 2023 -0400
+
+    Added implementation of expr parser and expr
+
+commit 58cb130d7ae958d89adaecb5ab066e9611fb4d82
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 14:26:40 2023 -0400
+
+    Finished implementation of expr.h and expr.cpp
+
+commit e550b8b91507878ae6052358ea2b765bbe489b75
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Fri Apr 21 13:57:02 2023 -0400
+
+    Added some functionality to the read input and added member functions to image file
+
+commit 218299e73b4ae59f03b89897205d3938f1a40e4c
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 21 13:16:22 2023 -0400
+
+    Added expr header file
+
+commit 3a092f8ca8bf49f83b3ccdcb6786f18ea6adc551
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Thu Apr 20 12:39:17 2023 -0400
+
+    Modifications
+
+commit 31575974558d37699290ee0fe7f36290bd5f7e77
+Merge: e43deea 01ed41b
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Thu Apr 20 12:37:48 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 01ed41ba2cf26646f74f96bf19247bd4bb72de60
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Wed Apr 19 21:53:24 2023 -0400
+
+    Recursion outline
+
+commit 383d4c08921b2d92ff7dfbc135b4fe75b7e8277a
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Wed Apr 19 18:58:44 2023 -0400
+
+    Setting up initial parse code
+
+commit e43deea189f33908dcf2db8b85a87247d141900b
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Wed Apr 19 18:51:14 2023 -0400
+
+    Worked on Image.copp
+
+commit cae252156bec9c8d4d323d19702db6de39b8b354
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Wed Apr 19 15:45:19 2023 -0400
+
+    Fixed brackets
+
+commit 274c62660c83dc77912c2857e9cc81ab458cc89b
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Wed Apr 19 15:44:07 2023 -0400
+
+    Finished reader for plot input
+
+commit 8ea471303c087fc572e42401ae032118a8d4f466
+Author: Nikhil Choudhary <nikhilch@outlook.com>
+Date:   Wed Apr 19 14:45:58 2023 -0400
+
+    Worked on Reader
+
+commit 61d5c1719dce7f11a8661547c69fba1dc7d47161
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Tue Apr 18 17:39:49 2023 -0400
+
+    Added constructors, destructors, and setters
+
+commit 3fa4a947b206f73031bdddc73346fc015e3d3133
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Tue Apr 18 17:26:33 2023 -0400
+
+    Minor updates for function definitions
+
+commit a6964aa022ae8f959b517f98b39756422471f974
+Author: Edgar Robitaille <erobita1@jh.edu>
+Date:   Tue Apr 18 17:22:39 2023 -0400
+
+    Added private fields and public member functions
+
+commit 09fca5fb95ce0680c31e5544974db3d9df4a5696
+Author: Sun Moon <gmoon3@jhu.edu>
+Date:   Fri Apr 14 21:57:44 2023 -0400
+
+    added all of the files to the repositary

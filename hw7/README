@@ -1,0 +1,4 @@
+Maverick Espinosa D5F9AC
+My Ctrie and TTrie utilizes some helper functions in order to recursively access and delete elements in the trie.
+In some of my function implementations, I reused functions I already had implemented in order to make the code more readable and simplified
+I had trouble fixing some of the memory leaks like in getChild where I had to create a Ctrie pointer in order to return the child node. This caused memory leaks since the allocated memory was never deleted after the function returned.

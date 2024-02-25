@@ -1,0 +1,7 @@
+//D5F9AC
+//Q1: I kept the structure of the program similar to the starter code.
+//Q2: For my solvePath function, I utilized recursion to keep track of each explored position. For 
+//maze2-NoSol.txt, I noticed that it was running infinitely so I used a counter and if statement to limit
+//the number of times the program runs. I had to make the counter static so that it wouldn't be reinitialized to 0 each
+//time the function recursed
+//Q3: no problems encountered.

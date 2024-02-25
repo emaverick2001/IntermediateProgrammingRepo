@@ -1,0 +1,17 @@
+TEAM:
+Edgar Robitalle -erobita1
+Sun Moon - gmoon3
+Nikhil Choudhary - nchoudh5
+
+DESIGN:
+The program is designed to parse and evaluate mathematical expressions specified in a prefix notation, create and manipulate plots, and generate a corresponding png file in an efficient manner. The program is organized into several classes and components that interact with each other to provide the desired functionality. The general flow of the program is as follows: 
+1. Parse input file using read_input to create Directive objects.
+2. Process the directives, updating the Plot object as needed.
+3. For each Function directive, parse the mathematical expression using ExprParser, creating an expression tree.
+4. Evaluate and plot the functions using the Plot class and the expression trees.
+5. Generate the png output based on the plot configuration.
+
+The use of object oriented programming allowed for a modular design that is easily extensible and maintainable. It also allows for the easy use of new derived classes for expressions and directives. 
+
+COMPLETENESS:
+The solution is completely functional. 

@@ -1,0 +1,615 @@
+commit 1725d0176c3819c5ca5f6179b901d0e20794e116
+Merge: 08f47aa 2a784e4
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Fri Jul 28 18:22:11 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit 08f47aa44aa0c9ef0f3c8393905784a4e42e4657
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Fri Jul 28 18:22:09 2023 -0400
+
+    current working project (all ex tested)
+
+commit 2a784e44f638ebec712d8ed4f1ecbfe2e1a84851
+Merge: 2768431 aec3d23
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Fri Jul 28 18:04:40 2023 -0400
+
+    Merge pull request #13 from jhu-ip/Reader9
+    
+    added exceptions for each class
+
+commit aec3d23d122bca197a83b7d137b210951c7b9920
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Fri Jul 28 18:03:32 2023 -0400
+
+    added exceptions for each class
+
+commit 27684315815ae8c61452dc9e555bf7888e302bdc
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Fri Jul 28 17:04:42 2023 -0400
+
+    finished renderer implementation
+
+commit 229f3892636236a1839e39fe3bb7661e32fe78e2
+Merge: c67b883 54c82be
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Fri Jul 28 16:45:52 2023 -0400
+
+    merging
+
+commit c67b8837e6c2b4ebe372c6bb1deb7db37fb4c8a3
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Fri Jul 28 16:42:18 2023 -0400
+
+    staging changes
+
+commit 54c82bec2e909ffa629d1cada00c116ee98b81b2
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Fri Jul 28 16:33:51 2023 -0400
+
+    render fill working
+
+commit 95ea58f7ab9d6e391e7deb9d5124dfff6c3f14b9
+Merge: 408f9fa 1593e53
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Fri Jul 28 15:34:53 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023
+
+commit 408f9fa2b738eb51d67792db3cdb18e1957fd467
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Fri Jul 28 13:56:49 2023 -0400
+
+    testing ex 3
+
+commit 1593e531c2967ed38db84241422c58677c52ced5
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Fri Jul 28 13:10:17 2023 -0400
+
+    bugs
+
+commit d69a28b90ca9ac3c2e475af1d5f455b2daed4b8f
+Merge: 6f20c38 737a39a
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Fri Jul 28 12:59:45 2023 -0400
+
+    Merge pull request #12 from jhu-ip/ReaderFinal
+    
+    fixed renderer, added helper function to help with printing, updated …
+
+commit 6f20c38414ace83d744a66148c3af08eeec85987
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Fri Jul 28 12:56:53 2023 -0400
+
+    image test
+
+commit 737a39a7f033a447765acd6f4e9e8c061f86cddb
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Fri Jul 28 12:56:43 2023 -0400
+
+    fixed renderer, added helper function to help with printing, updated image with helper functions to set pixel colors, fixed bugs in renderer
+
+commit 1a6ed15b37913ea0b16b56305c1e2862af54fbce
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Thu Jul 27 18:48:55 2023 -0400
+
+    fixed plot
+
+commit eae261040e2d827a8a712f83e22b5675c330e863
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Thu Jul 27 18:47:31 2023 -0400
+
+    fixed expr parser
+
+commit d9e030ae6171b684fbeeeddc74e1522515a6d164
+Merge: e28410c c2c42d8
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Thu Jul 27 18:45:56 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-
+
+commit e28410c16ce3bb7ba1965f43a09248e7b6412bfa
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Thu Jul 27 18:42:38 2023 -0400
+
+    working on render and plot
+
+commit c2c42d817d301e7c4e43659db8c6225408e36bcf
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Thu Jul 27 18:41:06 2023 -0400
+
+    changes to plot
+
+commit 744d7b77e505e2d7dc21e23341f3d701f1254693
+Merge: eb6fb43 232b968
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Thu Jul 27 11:34:14 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit eb6fb4326c99824d7cbf130ec4b7fc7924383322
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Thu Jul 27 11:32:49 2023 -0400
+
+    expr_parsers
+
+commit 232b968d5efc3fe105b39d71cb4682f93bdef707
+Merge: 3cfac83 0eaf5e0
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Thu Jul 27 11:27:51 2023 -0400
+
+    Merge pull request #11 from jhu-ip/Reader4
+    
+    Reader4
+
+commit 3cfac8397ad2bf09ed6b362ec73eef3c9704fed1
+Merge: f66fa76 43101a4
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Thu Jul 27 11:27:31 2023 -0400
+
+    merging
+
+commit 0eaf5e09e2393ce2285e5181e17bec4f4e2c885b
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Thu Jul 27 11:15:03 2023 -0400
+
+    looked over to see any errors in expression tree, added names to files
+
+commit 43101a48bc21dfbfa249ec11facb68e2cb8165ad
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Thu Jul 27 11:01:41 2023 -0400
+
+    expr_parser
+
+commit f66fa7674bfe6a4185cf43164eea0d16c0d6a55d
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Thu Jul 27 10:12:50 2023 -0400
+
+    addes some fixes to expression tree
+
+commit 7da9f54caf686d082ca507d00d48250bcefb4566
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 23:51:22 2023 -0400
+
+    render changes
+
+commit 11a98d95ee5885fc5ea60817a422cd4aa8366a1f
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 23:48:51 2023 -0400
+
+    deleted print from render
+
+commit e5a492405c296f5d67f7b234e60f7d2392239c05
+Merge: 8a8952e c61708d
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Wed Jul 26 23:41:50 2023 -0400
+
+    Merge pull request #9 from jhu-ip/Reader3
+    
+    fixed reading error in function
+
+commit c61708d15e9008b8d1c48382473460ccf3109b7f
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Wed Jul 26 23:40:00 2023 -0400
+
+    fixed reading error in function
+
+commit 8a8952e03d731b5d82b2bb7ad0a6af27323a23c5
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 23:13:06 2023 -0400
+
+    changed Bound from pointer type
+
+commit 21bd566e2da80a06de5739a413b61ea9205645a9
+Merge: 1bdcf11 a1cdf7e
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 23:02:52 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit 1bdcf11ffd365e7cb2c55be6717beba6da6c3d7d
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 23:02:49 2023 -0400
+
+    updated plot.cpp and plot.h member list
+
+commit a1cdf7e752b4bf679b69417edf293a8652792354
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 22:56:22 2023 -0400
+
+    added to render
+
+commit 742b41ab75c26a4e6a8cd622b21b21d7c29efecb
+Merge: b664838 55450d6
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 22:48:05 2023 -0400
+
+    updated
+
+commit 55450d6ba2c778b6d058830d0e4df0517b9126ce
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Wed Jul 26 22:14:35 2023 -0400
+
+    accidentally copied render to reader.h
+
+commit b664838f256445fbd52053bfb464329a4a2f3795
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 22:11:39 2023 -0400
+
+    added comments to plot.h
+
+commit 5f940c9a8809cb2313374eb82edbb1b56c676450
+Merge: 961ea01 d19c222
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Wed Jul 26 21:40:38 2023 -0400
+
+    Merge pull request #7 from jhu-ip/MavReader2
+    
+    trying this again in another branch
+
+commit d19c2220d0e1477edf6bf8202fda9cd81479245f
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Wed Jul 26 21:39:14 2023 -0400
+
+    trying this again in another branch
+
+commit 961ea01e0dd1945c20372502c4e301afefc6498d
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 21:21:41 2023 -0400
+
+    added test input file and fixes to render
+
+commit 8b8685d37c1cb9592065f3b636c6f84fc1016671
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 20:48:09 2023 -0400
+
+    added get child functions to expr
+
+commit 473c1834ad923c4b0ce6be55ecc908879ba1abf7
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 19:15:19 2023 -0400
+
+    fixed names in fill
+
+commit c111fec3eb35a6c8be12cc5ef8cac85def429b57
+Merge: 87a348b 8845d49
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 15:14:34 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit 87a348b1e18f2f80c61573fe13e773a94eb33312
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 15:13:56 2023 -0400
+
+    added test file
+
+commit 8845d496a53587a91e4fc664b73c91bb9114bec0
+Merge: 5d3cc26 4588739
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Wed Jul 26 13:06:41 2023 -0400
+
+    Merge pull request #5 from jhu-ip/MavReader
+    
+    implemented fill and reader directives
+
+commit 4588739d6ebd2865817ea22eee601e3a240d475d
+Merge: ec5dc53 5d3cc26
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Wed Jul 26 13:06:22 2023 -0400
+
+    Merge branch 'master' into MavReader
+
+commit ec5dc53dda8bcf30142a79265b8bb13b260b6b20
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Wed Jul 26 12:34:40 2023 -0400
+
+    implemented fill and reader directives
+
+commit 5d3cc2653be4b7f00864d6d3e803b738cdccda4b
+Merge: 5aa1e79 d1d2946
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 11:51:39 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023
+
+commit 5aa1e7971c3fa6cecd2222ea9912b4baf8a8e3aa
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 11:48:04 2023 -0400
+
+    added functions to fill
+
+commit d1d29464c0c1316f368e63cb3089b1db74f40d47
+Merge: 5bb9a0a 0d1b2b4
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 10:53:27 2023 -0400
+
+    updated fill.h and fill.cpp
+
+commit 5bb9a0a1e95a0c873027e83942d24a8513111455
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Wed Jul 26 10:52:25 2023 -0400
+
+    Added to fill.cpp and fill.h
+
+commit 0d1b2b44b7e0aa762c666d828896f09fa2eb85c7
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Wed Jul 26 10:27:10 2023 -0400
+
+    git ignore
+
+commit 3ffa95d580fa9227a77d77850bf3c0849e38a593
+Merge: b3a3dad e327071
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Wed Jul 26 10:23:12 2023 -0400
+
+    merge request
+
+commit e3270715ef820dfaa52ce508f2e0b7f22b39483d
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Wed Jul 26 00:54:15 2023 -0400
+
+    render edits and added to bounds
+
+commit 69f95b354570cc22ef2f1c38c1c79bbcb66f0bee
+Merge: 9262202 907b216
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 23:13:04 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit 9262202c68006aabe14d9c154928a24015ac6b32
+Merge: 0e69921 c3da74b
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 23:13:00 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit 907b21667776eb026d76fde96e90d86a6b0948a6
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 23:11:37 2023 -0400
+
+    Updated plot.cpp
+
+commit 0e69921ffe7b0a8f9afd82e821c2d00de659aa7c
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 23:07:01 2023 -0400
+
+    deleted fill for merge
+
+commit c3da74b807eeafb6fad34cbd36ba615139aa4c0b
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 22:42:25 2023 -0400
+
+    finished TODO stubs for Fill class
+
+commit b3a3dad24e6040853686c7a4f443cda422111344
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Tue Jul 25 20:56:01 2023 -0400
+
+    merge request
+
+commit a47850506b0c6f912c1c5d76c985585b0fdc999c
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Tue Jul 25 20:46:58 2023 -0400
+
+    removed some getters now that function is implmented
+
+commit 0be2228a66a7148b0d052cb0b6325b488d86ef01
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 20:44:20 2023 -0400
+
+    updated plot.h
+
+commit 67057e990271fba94608327f9a7ce77289e1c37e
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 20:42:46 2023 -0400
+
+    changed setBounds to set_bounds
+
+commit 6ce6aa969cef4c6cd036a0afac63f8657a3b68d8
+Merge: 75fe17f 5963749
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 20:41:35 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-summer-final-rdani1-kforbes6-mespin11
+
+commit 75fe17f5ab253d209ddd3f14c31d04e357eb8361
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 20:40:44 2023 -0400
+
+    added to plot.h
+
+commit 5963749455ea6a4c8aab9425dfd17d68c283f2fc
+Merge: 5b73133 57b8691
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Tue Jul 25 20:39:36 2023 -0400
+
+    Merge pull request #3 from jhu-ip/MavBranch-2
+    
+    Mav branch 2
+
+commit 57b869149d190228a4206d450ecd1853d76ad22f
+Merge: 1433e94 5b73133
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Tue Jul 25 20:39:23 2023 -0400
+
+    Merge branch 'master' into MavBranch-2
+
+commit 5b73133a1bbb217d571668e411dfc8787d72e11c
+Author: forbeskat <63268053+forbeskat@users.noreply.github.com>
+Date:   Tue Jul 25 20:30:12 2023 -0400
+
+    Create README.md
+
+commit cd6987fdf6e5c1743c97c5ec7254792dc2407a2d
+Merge: e640966 6e92623
+Author: forbeskat <63268053+forbeskat@users.noreply.github.com>
+Date:   Tue Jul 25 20:29:26 2023 -0400
+
+    Merge pull request #4 from jhu-ip/plot
+    
+    Working on plot
+
+commit 1433e94f8544b9985ff97b905ad6e18c03916dd8
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Tue Jul 25 20:19:09 2023 -0400
+
+    finished implementing and organizing expression tree, added member funciton to plot to add functions
+
+commit 6e92623955d41211fea58b195d6a3024cae0ca92
+Merge: aca9a21 e640966
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 20:10:17 2023 -0400
+
+    changes to plot class
+
+commit 4c0103d5018ffcb8ccf4e69e5b6368493f155de8
+Author: Maverick Espinosa <mespin11@ugrad13.cs.jhu.edu>
+Date:   Tue Jul 25 19:57:26 2023 -0400
+
+    finished implementing expression tree
+
+commit e640966c231835e656fe32a039196ac7dde1aedb
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 19:37:32 2023 -0400
+
+    trying to execute render
+
+commit aca9a21bb9a21adcb7f332a445d2730b4c786add
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 19:28:43 2023 -0400
+
+    updated plot
+
+commit ab8618bfd866ec293967dbac2a7ab03a62e50cde
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 19:15:08 2023 -0400
+
+    Updated plot.h and plot.cpp
+
+commit 1a2cb4853eacc7b248f8eb38b7cab8a6014acfe2
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 18:54:44 2023 -0400
+
+    included .h files in read
+
+commit 3c5c0afe7312783115a4e6717215b85b9fa00416
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 18:51:34 2023 -0400
+
+    added setbound to plot
+
+commit 95b85ce97f8ea839baf027c828853fa19f53e52c
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 18:49:50 2023 -0400
+
+    added to fill and plot
+
+commit 6cfb18dd0e32c2727a80b0fe26968059b4f1f5ed
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Tue Jul 25 17:40:15 2023 -0400
+
+    need to change implementation of operator nodes
+
+commit 143e0ac18148d4f54bf325b8c2bb3f4091407605
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Tue Jul 25 17:29:08 2023 -0400
+
+    saving work, finised implementing expression tree + expr nodes. Working on error exceptions.
+
+commit 1cb05cbf6d45d03cab9faa9149f0c80d6e5ddab6
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 12:31:54 2023 -0400
+
+    render edits
+
+commit e1c5bb797453481b44dd8f7fd70d88950a9b2432
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 10:37:04 2023 -0400
+
+    added get functions to bound for renderer
+
+commit 4562a98cd02698f963d05c1459ced4f342861583
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Tue Jul 25 10:14:59 2023 -0400
+
+    added plot functions for renderer
+
+commit ca06f35af3f87761a944476917f10f27986cae56
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Tue Jul 25 03:47:23 2023 -0400
+
+    Finished TODO stubs in plot.h
+
+commit 5ab548fa4f19d050c58f571abda17633de9774b9
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Mon Jul 24 13:06:36 2023 -0400
+
+    testing whether my new branch is updated vs master
+
+commit 5e88e818b37852c8dc20b112bab769ddda270e59
+Merge: a0655cd b2baa5b
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Mon Jul 24 12:47:20 2023 -0400
+
+    Merge pull request #2 from jhu-ip/MavBranch
+    
+    Mav branch
+
+commit b2baa5b733c08a16807a6f053ad8fe894403029d
+Merge: 8596667 a0655cd
+Author: Maverick Espinosa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Mon Jul 24 12:45:23 2023 -0400
+
+    Merge branch 'master' into MavBranch
+
+commit 85966674a1884d85b5bf85edc52736ff462a2c1c
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Mon Jul 24 12:37:07 2023 -0400
+
+    updated structure of plot class, reader.cpp, and added copy + assignment operators to bounds
+
+commit a0655cd1d7365443fe1ed0345817d6a7d99c9762
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Mon Jul 24 12:17:11 2023 -0400
+
+    final proj: render edits
+
+commit b2b4ec1fafa4f991a5a3c08f8a453525f8b736b2
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Mon Jul 24 02:00:46 2023 -0400
+
+    hw7: edits to image to initialize
+
+commit 98d5cb418e5ce492d00ead09c749711e2493e0b9
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Mon Jul 24 01:52:21 2023 -0400
+
+    final proj: added get pixels function to image
+
+commit 4fa55ecfd08a3d0fec890adb0fcb57bb50ecbe29
+Author: Ria Dani <rdani1@jh.edu>
+Date:   Mon Jul 24 01:49:22 2023 -0400
+
+    final proj: added to bounds and render files
+
+commit 1e496e353d57e2e890e2a21669b80c0acec0c5db
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Sun Jul 23 16:18:35 2023 -0400
+
+    testing branch
+
+commit 37553f43558a96933e734947b344e26c7a124b68
+Author: Maverick Espinosa <mespin11@ugrad5.cs.jhu.edu>
+Date:   Sun Jul 23 15:54:34 2023 -0400
+
+    working on reader file, plot file, bound file, color file, and function file+ created uml diagram
+
+commit 46de84c8d5343d2827cc5de26acd36e32a149482
+Author: Katherine Forbes <kforbes6@jh.edu>
+Date:   Fri Jul 21 18:45:56 2023 -0400
+
+    Added starter files

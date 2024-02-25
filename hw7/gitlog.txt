@@ -1,0 +1,395 @@
+commit 64cc9d363eba30cd948c57a839204faf0b560183
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Sat Jul 22 00:27:14 2023 -0400
+
+    organized ttrie and change for each loops to iterators
+
+commit 9b889b7d7b7a2b13ccfab263aaf04891e8495ef8
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Sat Jul 22 00:04:35 2023 -0400
+
+    finished README
+
+commit 916e8b72697fa67af6d38d538a24d1bda9fd8861
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Fri Jul 21 23:02:05 2023 -0400
+
+    finished implementing TTrie, fixed some memory leaks within CTrie
+
+commit 80e932a5311737d4a9a6dfd016dbf8d6dda2a3c9
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Fri Jul 21 11:34:15 2023 -0400
+
+    fin ex35
+
+commit 4fb1e28a6bc49f90a3719b47df57267010e50cbb
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Fri Jul 21 09:46:02 2023 -0400
+
+    setting up make file and starting to implement TTrie
+
+commit fb91120685b5c51db778e14c00aec725cf90c705
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Thu Jul 20 18:11:10 2023 -0400
+
+    finished << operator
+
+commit 7bde27855c75bedb2456255734a762f8fdc41158
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Thu Jul 20 14:08:34 2023 -0400
+
+    finished implementing all the operators. Working on << operator
+
+commit 52559fd9a3194a20c95c7d88767835a1c71d3cea
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Thu Jul 20 08:13:43 2023 -0400
+
+    fixed makefile + finished implementing add operator and other helper functions
+
+commit 6b7aa946d0853aa414be7f084d2df22cdb8021a0
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Wed Jul 19 11:36:53 2023 -0400
+
+    finished ex 33
+
+commit 91af616b72f1d4aa579fe52a2f3c5695e1df1c86
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jul 13 15:52:01 2023 -0400
+
+    Refactored my code so main is cleaner and fixed autograder issue
+
+commit 8f230688d72d78c3f3211aa82c4fe2724d2d54b3
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jul 13 10:31:08 2023 -0400
+
+    fixed Makefile errors and starting to refactor code into helper functions
+
+commit b52a86cf65f9b56a09bd8e85171061b1f7488327
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Thu Jul 13 08:44:02 2023 -0400
+
+    fixed bugs with reading file and saving outputfile
+
+commit d80cae6d25d49ff3bfb58443ac93f41344ffcf29
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jul 12 23:17:10 2023 -0400
+
+    fixing bugs with reading the saved outputfile
+
+commit 0fbb1896f9bffd6f9923ba3d83d86c1352a572ef
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Wed Jul 12 17:42:51 2023 -0400
+
+    finished implementing S and R
+
+commit 32cdfc9dbf2769f64a7559887cfa9c0169a0f8c4
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Tue Jul 11 13:33:15 2023 -0400
+
+    finished implementing N option and fixed some bugs with string stream
+
+commit c68dfab25923abf9b8d1d6807ac9ec59dc62d581
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Tue Jul 11 00:22:41 2023 -0400
+
+    implemented up to N
+
+commit c3a47de8f65c13e1f0c7b2b873f3fec6dda0f4d4
+Author: Maverick Espinosa <mespin11@ugrad2.cs.jhu.edu>
+Date:   Mon Jul 10 10:02:04 2023 -0400
+
+    finished abbrev.cpp
+
+commit 54d9ef2127873601dbd04b820f3c9373ea6fbb2c
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Mon Jun 26 09:51:06 2023 -0400
+
+    finished ex16
+
+commit a308fac0ef6c065fe65e957d6e17ccfc75e5b9b2
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Thu Jun 22 12:03:10 2023 -0400
+
+    fixed printing error in printMaze again
+
+commit 074d85a2522801835eb4ad312f79645a1f75b4c0
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Thu Jun 22 11:57:59 2023 -0400
+
+    fixed printing error in printMaze
+
+commit 3cd47817f0c576f87d74a056e42a6143deebc840
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Thu Jun 22 11:48:10 2023 -0400
+
+    fixed a printing bug within printMaze
+
+commit 04124c0f96eb9ffe071f5875bef991c2dc6ad010
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Thu Jun 22 11:09:29 2023 -0400
+
+    Fixed maze2-NoSol.txt with a counter if + fixed autograder errors
+
+commit 55e48e8a153ab6f4b5d14d1eef9c292b29bfe750
+Author: Maverick Espinosa <mespin11@ugrad1.cs.jhu.edu>
+Date:   Wed Jun 21 21:22:04 2023 -0400
+
+    input validation fixes + updated README
+
+commit 498ac76e0b5256b07ece526c57bc4eedabbac428
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 21 16:06:42 2023 -0400
+
+    fixed bug in solvemaze and fixed return values for specific errors
+
+commit 1d3ada61a15c7cbb2db9929c2f552a5f13769eea
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 21 13:31:22 2023 -0400
+
+    accidentally swapped width for height values
+
+commit b9ba7ef72045806a3d718b2dca57f22afa2c4d62
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 21 13:30:08 2023 -0400
+
+    realized I swapped width and height, width = col, height = row
+
+commit bbeb6e6ff50d55b10551be57527119aa0fd57c1c
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 21 08:33:59 2023 -0400
+
+    finished ex13
+
+commit 8f55454f9aa830270fffbb8940cc22b2f1b5ba98
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Tue Jun 20 19:01:26 2023 -0400
+
+    encountered issue with argc values/ might need to change implementation based on num of arguments
+
+commit 4879d8b6a1354174c00ee90437f1b2cb51a08fd1
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Mon Jun 19 16:46:40 2023 -0400
+
+    attempt at implementing solveMaze
+
+commit 041244245066280834f6a8d4ad48da5675389061
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Mon Jun 19 14:25:10 2023 -0400
+
+    fixed print bug with varying argc print
+
+commit ab9304381d0ccb007d6a330cae34d7a50c757c76
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Mon Jun 19 12:26:02 2023 -0400
+
+    updated print and fgets
+
+commit 47d490ab42a23b9b5eba921ab073181957d0858c
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Sun Jun 18 22:09:49 2023 -0400
+
+    HW3: wrote print maze and writMaze
+
+commit 48204d4c5c7355ad7732354683113b9a58f1b653
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Sun Jun 18 19:17:58 2023 -0400
+
+    HW3: wrote writeMaze code
+
+commit d36431a3431eb4ef0e714d33ca4739ace9bcd437
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Sun Jun 18 16:20:49 2023 -0400
+
+    HW3: finish readMaze code
+
+commit 612210b0714b4328c436eaa60fdec71ef8426d03
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Fri Jun 16 17:17:46 2023 -0400
+
+    hw3: worked on Makefile + .h files TODOs
+
+commit 86b7261417d572f6c0e34e31fa7564a486a75fd2
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Fri Jun 16 13:30:41 2023 -0400
+
+    finished ex012
+
+commit 9cc3b334c2eada24ef8449313e6488e818910066
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Thu Jun 15 22:42:49 2023 -0400
+
+    fin ex10
+
+commit 568dcd9aafedd7d9c9983d2f713a67f07bdc80a2
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Thu Jun 15 17:30:49 2023 -0400
+
+    updated ex7
+
+commit 2b2434c0a8a43e5eb7a72725bc329e217cd75efc
+Author: Maverick Espinosa <mespin11@ugrad4.cs.jhu.edu>
+Date:   Thu Jun 15 17:29:58 2023 -0400
+
+    updated ex09
+
+commit fe2a00edc333d0a7616a6e929af40ad2b9550934
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 14 14:23:36 2023 -0400
+
+    finished exercise 10
+
+commit 6331ed0fc959b7a639186510b5e244ba8bc3f66a
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:54:42 2023 -0400
+
+    update hw1
+
+commit d2f7077ae2930d145fdacf5c10c127b7a70ba73d
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:49:27 2023 -0400
+
+    update hw1
+
+commit eaf1bdf283b202bb2ba44bc86453b00db34b51dc
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:32:25 2023 -0400
+
+    update hw1
+
+commit 77163b909d3e8e2920ec262f3c252d69f1fa9401
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:30:21 2023 -0400
+
+    formatting hw1
+
+commit f21036dc360e0bc8abc747c8ce1a2e8312ec4e05
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:29:32 2023 -0400
+
+    adding comments to hw1
+
+commit dfde99e338e81aca2e1961199904d516b7be9a59
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:16:13 2023 -0400
+
+    finished hw 1
+
+commit 9e6007ab8a6d44c2419681b25537adf632ec307f
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 13:51:36 2023 -0400
+
+    update hw1
+
+commit 734229d99e57c75ed1cfb46f3e00da1f35b6de37
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 09:49:44 2023 -0400
+
+    updated
+
+commit 69c62599c92cada8622d548583a764f977965a56
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Mon Jun 12 15:47:56 2023 -0400
+
+    Update ex 8
+
+commit fd96463e370d627adf52de5159e1c584b9d4f911
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Mon Jun 12 12:27:16 2023 -0400
+
+    changes updated
+
+commit 5111159b110a44cf6af8b2831b221a3c2ce9f126
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Mon Jun 12 11:08:46 2023 -0400
+
+    added updated files
+
+commit 777b229cfc06a48b8b98cd1d545c66e41a996917
+Author: MaverickEspinosssa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Sun Jun 11 12:09:17 2023 -0400
+
+    Final Update count3.c
+
+commit 5d46321263566d540b429933da31ea513148ee23
+Author: MaverickEspinosssa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Sun Jun 11 11:59:13 2023 -0400
+
+    Update count3.c
+
+commit 41a9a8d880a56501e465f218e06cda97764e03c1
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Sun Jun 11 11:00:31 2023 -0400
+
+    count3.c update
+
+commit 8823787f65f3edff679d0f4e0873269b200c2b4f
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Fri Jun 9 11:12:52 2023 -0400
+
+    ex05 count2 working
+
+commit 00de07478076852d425bed44f4e5bca6fd83b17f
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Fri Jun 9 11:04:15 2023 -0400
+
+    ex05 count1 working
+
+commit 233ff6a8f8ddd486f17949bbfe9855014d0f9eab
+Author: Mav <mespin11@jh.edu>
+Date:   Thu Jun 8 14:05:05 2023 -0400
+
+    chnaged
+
+commit 2921299191b9962ea4320eaa2a66d953b7bfef57
+Author: MaverickEspinosssa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Thu Jun 8 13:46:38 2023 -0400
+
+    Update gpa_simple.c
+
+commit 4bb6a522a7fae1832818320698a632e4ec04c564
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 17:10:26 2023 -0400
+
+    update gitlog
+
+commit 2c1f192791ddef8c19ce39155b18b4318291da34
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 17:08:59 2023 -0400
+
+    update .c files
+
+commit b0d61f617c379c91557e1d5f743a34922dee7b12
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:32:58 2023 -0400
+
+    created two.c and three.c
+
+commit 76787563ec82363f1cb10391acaaab7ca402c85b
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:30:42 2023 -0400
+
+    commit two.c
+
+commit 1bec865b923ba332d2fd145cf7c1f4fc7e09d098
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:21:57 2023 -0400
+
+    updated one.c
+
+commit b9462b84f189679cb5386a56417cf836c13391a6
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:15:08 2023 -0400
+
+    created one.c
+
+commit 9c4588687a4daea615410e44f4162f05803daca4
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 10:05:20 2023 -0400
+
+    modified README
+
+commit a11b4e3b4b0d4e03fa9cbfa2dcb1bb19f1151c33
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 09:58:44 2023 -0400
+
+    created README.txt

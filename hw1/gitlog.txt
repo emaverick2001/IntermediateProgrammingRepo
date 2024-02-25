@@ -1,0 +1,155 @@
+commit 6331ed0fc959b7a639186510b5e244ba8bc3f66a
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:54:42 2023 -0400
+
+    update hw1
+
+commit d2f7077ae2930d145fdacf5c10c127b7a70ba73d
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:49:27 2023 -0400
+
+    update hw1
+
+commit eaf1bdf283b202bb2ba44bc86453b00db34b51dc
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:32:25 2023 -0400
+
+    update hw1
+
+commit 77163b909d3e8e2920ec262f3c252d69f1fa9401
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:30:21 2023 -0400
+
+    formatting hw1
+
+commit f21036dc360e0bc8abc747c8ce1a2e8312ec4e05
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:29:32 2023 -0400
+
+    adding comments to hw1
+
+commit dfde99e338e81aca2e1961199904d516b7be9a59
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 14:16:13 2023 -0400
+
+    finished hw 1
+
+commit 9e6007ab8a6d44c2419681b25537adf632ec307f
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 13:51:36 2023 -0400
+
+    update hw1
+
+commit 734229d99e57c75ed1cfb46f3e00da1f35b6de37
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Tue Jun 13 09:49:44 2023 -0400
+
+    updated
+
+commit 69c62599c92cada8622d548583a764f977965a56
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Mon Jun 12 15:47:56 2023 -0400
+
+    Update ex 8
+
+commit fd96463e370d627adf52de5159e1c584b9d4f911
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Mon Jun 12 12:27:16 2023 -0400
+
+    changes updated
+
+commit 5111159b110a44cf6af8b2831b221a3c2ce9f126
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Mon Jun 12 11:08:46 2023 -0400
+
+    added updated files
+
+commit 777b229cfc06a48b8b98cd1d545c66e41a996917
+Author: MaverickEspinosssa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Sun Jun 11 12:09:17 2023 -0400
+
+    Final Update count3.c
+
+commit 5d46321263566d540b429933da31ea513148ee23
+Author: MaverickEspinosssa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Sun Jun 11 11:59:13 2023 -0400
+
+    Update count3.c
+
+commit 41a9a8d880a56501e465f218e06cda97764e03c1
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Sun Jun 11 11:00:31 2023 -0400
+
+    count3.c update
+
+commit 8823787f65f3edff679d0f4e0873269b200c2b4f
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Fri Jun 9 11:12:52 2023 -0400
+
+    ex05 count2 working
+
+commit 00de07478076852d425bed44f4e5bca6fd83b17f
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Fri Jun 9 11:04:15 2023 -0400
+
+    ex05 count1 working
+
+commit 233ff6a8f8ddd486f17949bbfe9855014d0f9eab
+Author: Mav <mespin11@jh.edu>
+Date:   Thu Jun 8 14:05:05 2023 -0400
+
+    chnaged
+
+commit 2921299191b9962ea4320eaa2a66d953b7bfef57
+Author: MaverickEspinosssa <135547243+MaverickEspinosssa@users.noreply.github.com>
+Date:   Thu Jun 8 13:46:38 2023 -0400
+
+    Update gpa_simple.c
+
+commit 4bb6a522a7fae1832818320698a632e4ec04c564
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 17:10:26 2023 -0400
+
+    update gitlog
+
+commit 2c1f192791ddef8c19ce39155b18b4318291da34
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 17:08:59 2023 -0400
+
+    update .c files
+
+commit b0d61f617c379c91557e1d5f743a34922dee7b12
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:32:58 2023 -0400
+
+    created two.c and three.c
+
+commit 76787563ec82363f1cb10391acaaab7ca402c85b
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:30:42 2023 -0400
+
+    commit two.c
+
+commit 1bec865b923ba332d2fd145cf7c1f4fc7e09d098
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:21:57 2023 -0400
+
+    updated one.c
+
+commit b9462b84f189679cb5386a56417cf836c13391a6
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 15:15:08 2023 -0400
+
+    created one.c
+
+commit 9c4588687a4daea615410e44f4162f05803daca4
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 10:05:20 2023 -0400
+
+    modified README
+
+commit a11b4e3b4b0d4e03fa9cbfa2dcb1bb19f1151c33
+Author: Maverick Espinosa <mespin11@ugradx.cs.jhu.edu>
+Date:   Wed Jun 7 09:58:44 2023 -0400
+
+    created README.txt
